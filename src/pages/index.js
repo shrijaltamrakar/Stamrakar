@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="main-container" style={{ color: `White` }}>
       <div className="header-container">
-        <h1>Hi I'm Shrijal Tamrakar</h1>
+        <h1>Hi! I'm Shrijal Tamrakar.</h1>
       </div>
       <p className="description">
         <strong>Software Engineer</strong> | Gamer | Football Enthusiast
