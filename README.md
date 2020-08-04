@@ -1,3 +1,3 @@
 ## 🚀 My Portfolio
 
-[Link](https://www.shrijaltamrakar.com.np)
+[Link](www.shrijaltamrakar.com.np)
